@@ -10,6 +10,7 @@ This is a simple **Blind Auction** Python program where multiple users can place
 - Stores bids using a Python dictionary.
 - Automatically determines the highest bidder.
 - Clears the screen (simulated using multiple new lines) to keep bidding secret.
+- Simple and beginner-friendly Python script.
 
 ---
 
@@ -26,4 +27,9 @@ This is a simple **Blind Auction** Python program where multiple users can place
 
 ---
 
+## 🖥️ How to Run
 
+1. Clone this repository:
+
+```bash
+git clone https://github.com/shafil-ai/blind-auction.git
